@@ -89,7 +89,7 @@ ffmpeg -version
 4. Uruchom dowolny skrypt, np.:
 
    ```bash
-   python vocal_separator.py
+   python stem_separator.py
    ```
 
 > **Uwaga:** Przy pierwszym uruchomieniu Vocal Separatora modele AI
@@ -201,7 +201,7 @@ ffmpeg -version
 4. Run any of the scripts, e.g.:
 
    ```bash
-   python vocal_separator.py
+   python stem_separator.py
    ```
 
 > **Note:** The Vocal Separator automatically downloads the required AI models
