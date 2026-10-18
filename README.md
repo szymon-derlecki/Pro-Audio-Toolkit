@@ -172,7 +172,7 @@ ffmpeg -version
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/pro-audio-toolkit.git
+   git clone https://github.com/szymon-derlecki/Pro-Audio-Toolkit
    cd pro-audio-toolkit
    ```
 
