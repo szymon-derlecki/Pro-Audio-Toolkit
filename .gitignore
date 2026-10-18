@@ -1,0 +1,22 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Ai models and results
+models/
+output/
+*.ckpt
+*.onnx
+*.pth
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.opus
+
+# System
+.DS_Store
+Thumbs.db
